@@ -1,0 +1,1 @@
+This folder includes the codes which prepares the synthetic data for training and modelling
